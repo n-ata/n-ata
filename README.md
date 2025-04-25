@@ -24,7 +24,7 @@
 ## 📈 Contribution Graph 
 
 <div align="center">
-  <!-- This will display your GitHub contribution calendar with both public and private contributions -->
+  <!-- Non-clickable contribution graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
@@ -34,7 +34,7 @@
 
 ## 🧮 Contribution Breakdown
 
-<!-- Activity Distribution Graph -->
+<!-- Activity Distribution Graph - Non-clickable -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=radical" alt="Activity Distribution" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="Contribution Details" />
@@ -45,7 +45,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" alt="Top Languages by Commit" />
 </div>
 
-<!-- Contribution Stats -->
+<!-- Contribution Stats - Non-clickable -->
 <div align="center">
   <!-- This will include private contributions in the count if you've enabled the setting -->
   <img src="https://github-stats-alpha.vercel.app/api?username=yourusername&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Contribution Stats" />
@@ -55,20 +55,20 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card with private contributions -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
+  <!-- GitHub Stats Card with private contributions - Non-clickable -->
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </div>
   
-  <!-- Most Used Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-  </a>
+  <!-- Most Used Languages Card - Non-clickable -->
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
   
-  <!-- GitHub Streak Stats (includes private contributions if enabled) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-  </a>
+  <!-- GitHub Streak Stats (includes private contributions if enabled) - Non-clickable -->
+  <div>  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  </div>
   
 </div>
 
@@ -128,14 +128,18 @@ function solveProblems(challenge: Problem): Solution {
 
 ## 📊 Coding Activity Metrics
 
-<!-- WakaTime Stats Graph -->
+<!-- WakaTime Stats Graph - Non-clickable -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="WakaTime Stats" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="WakaTime Stats" />
+  </div>
 </div>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Non-clickable -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical" alt="Contribution Graph" />
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical" alt="Contribution Graph" />
+  </div>
 </div>
 
 ## 🔍 Technical Universe
@@ -197,7 +201,6 @@ function solveProblems(challenge: Problem): Solution {
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 </div>
-
 <!--
 **n-ata/n-ata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
