@@ -20,6 +20,24 @@
 
 </div>
 
+## 🧮 Contribution Breakdown
+
+<!-- Activity Distribution Graph -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=radical" alt="Activity Distribution" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="Contribution Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" alt="Top Languages by Commit" />
+</div>
+
+<!-- Contribution Stats -->
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=yourusername&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Contribution Stats" />
+</div>
+
 ## 🔮 Dynamic Development Dashboard
 
 <div align="center">
@@ -37,16 +55,6 @@
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-  </a>
-  
-  <!-- Wakatime Stats (if you use Wakatime) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" />
-  </a>
-  
-  <!-- Productive Time Stats -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=redical" />
   </a>
   
 </div>
@@ -105,6 +113,18 @@ function solveProblems(challenge: Problem): Solution {
   </a>
 </div>
 
+## 📊 Coding Activity Metrics
+
+<!-- WakaTime Stats Graph -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="WakaTime Stats" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical" alt="Contribution Graph" />
+</div>
+
 ## 🔍 Technical Universe
 
 <p align="center">
@@ -127,34 +147,6 @@ function solveProblems(challenge: Problem): Solution {
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
-
-## 🌊 Contributions Flow
-
-<div align="center">
-  <!-- Isometric commit calendar -->
-  <a href="https://github.com/yourusername">
-    <img src="https://metrics.lecoq.io/yourusername?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&activity=1&achievements=1&notable=1&repositories=1&gists=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.featured=yourusername%2Fproject1%2C%20yourusername%2Fproject2%2C%20yourusername%2Fproject3&config.timezone=America%2FNew_York" />
-  </a>
-</div>
-
-## 🌱 Current Growth Areas
-
-- Building scalable distributed systems 🏗️
-- Developing AI/ML applications with practical use cases 🤖
-- Exploring blockchain and smart contract development ⛓️
-- Contributing to open-source projects 🌐
-- Optimizing for performance and security 🔒
-
-## 🎵 Coding to the Rhythm
-
-<div align="center">
-  
-  <!-- Spotify Recently Played -->
-  <a href="https://open.spotify.com/user/yourusername">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=3" />
-  </a>
-  
-</div>
 
 ## 📝 Latest Technical Articles
 
