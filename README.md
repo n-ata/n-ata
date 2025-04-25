@@ -20,6 +20,18 @@
 
 </div>
 
+<!-- Note: This contribution graph includes both public and private contributions -->
+## 📈 Contribution Graph 
+
+<div align="center">
+  <!-- This will display your GitHub contribution calendar with both public and private contributions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 🧮 Contribution Breakdown
 
 <!-- Activity Distribution Graph -->
@@ -35,6 +47,7 @@
 
 <!-- Contribution Stats -->
 <div align="center">
+  <!-- This will include private contributions in the count if you've enabled the setting -->
   <img src="https://github-stats-alpha.vercel.app/api?username=yourusername&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Contribution Stats" />
 </div>
 
@@ -42,7 +55,7 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card with private contributions -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   </a>
@@ -52,7 +65,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
   </a>
   
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak Stats (includes private contributions if enabled) -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
   </a>
